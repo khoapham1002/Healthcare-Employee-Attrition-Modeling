@@ -1,11 +1,4 @@
-## Healthcare Employee Attrition Prediction
-Python, Pandas, Scikit-Learn, Decision Tree, Logistic Regression, Matplotlib, Seaborn
-* Developed attrition prediction models (Decision Tree & Logistic Regression) to identify high-risk employees.
-* Engineered demographic, work-related, and compensation features, improving model interpretability.
-* Achieved classification accuracy of 80%, providing insights for targeted employee retention strategies.
-* Conducted statistical analysis on work-life balance, job involvement, and salary trends to support HR decisions.
-* Built Python visualizations (Matplotlib, Seaborn) to present key attrition patterns and recommendations.
-
+YOU CAN CHECK OUT MY [PROJECT NOTEBOOKS](https://github.com/khoapham1002/Healthcare-Employee-Attrition-Modeling/blob/main/notebooks/Employee%20Attrition%20with%20Logistic%20Regression.ipynb) FIRST!
 
 ## Employee Attrition Prediction – McCurr Healthcare Consultancy
 ### Tools & Technologies:

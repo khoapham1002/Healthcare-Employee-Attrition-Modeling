@@ -14,12 +14,12 @@ Developed predictive models to identify employees at risk of attrition for McCur
 
 #### Model Development:
 * Classification Tree (Decision Tree):
-* Trained a Decision Tree model to classify employees as likely to attrite or stay.
-* Achieved 89% test accuracy, with overtime and monthly income as top predictors.
+    * Trained a Decision Tree model to classify employees as likely to attrite or stay.
+    * Achieved 89% test accuracy, with overtime and monthly income as top predictors.
 * Logistic Regression:
-* Applied feature scaling and one-hot encoding for categorical data.
-* Achieved 88% test accuracy, with business travel, job level, and salary growth identified as significant factors.
-* Optimized threshold for higher recall (58%), reducing false negatives.
+    * Applied feature scaling and one-hot encoding for categorical data.
+    * Achieved 88% test accuracy, with business travel, job level, and salary growth identified as significant factors.
+    * Optimized threshold for higher recall (58%), reducing false negatives.
 
 #### Feature Importance & Insights:
 * Employees with frequent business travel and overtime had higher attrition risk.
